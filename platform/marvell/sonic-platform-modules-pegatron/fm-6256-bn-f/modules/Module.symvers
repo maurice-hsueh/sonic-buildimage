@@ -1,0 +1,2 @@
+0x1ad2c59e	pegatron_fm_6256_bn_f_cpld_read	/sonic/platform/marvell/sonic-platform-modules-pegatron/fm-6256-bn-f/modules/pegatron_fm_6256_bn_f_cpld	EXPORT_SYMBOL
+0xc9011ab9	pegatron_fm_6256_bn_f_cpld_write	/sonic/platform/marvell/sonic-platform-modules-pegatron/fm-6256-bn-f/modules/pegatron_fm_6256_bn_f_cpld	EXPORT_SYMBOL
