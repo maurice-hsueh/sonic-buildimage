@@ -1,5 +1,0 @@
-#!/bin/bash
-docker exec -i pmon sensors "$@"
-
-#To probe sensors not part of lm-sensors
-pegatron_fm_6256_bn_f_util.py cmd device sensors
